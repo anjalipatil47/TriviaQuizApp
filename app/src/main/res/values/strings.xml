@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="your_score">Your Score is:-</string>
+</resources>
